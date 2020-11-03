@@ -5,7 +5,7 @@ For instructions on how to use it, please see: https://github.com/openshift/orig
 Test CI20ddd
 sd a s s
 s d 
-ss ss sd
+ss ss sds s
  s s
 dd s s
 s s  s s  s s ssd s dazd&a adz

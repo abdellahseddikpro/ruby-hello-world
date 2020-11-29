@@ -4,7 +4,8 @@ nshift v3 application repository.
 nshift v3 application repositoryrepository.  
 
 For instructions onFor instructions on howhow howhowto use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
-ssssFor instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
+ssssFor inst
+aaaaaaaaaaaaructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 aaaaaaaaaaaa
 
 For instructioctioctions octioction how to s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md

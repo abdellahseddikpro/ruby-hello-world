@@ -7,7 +7,7 @@ For instructions onFor instructions on howhow howhowto use s  it, please see: ht
 ssssFor instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 aaaaaaaaaaaa
 
-For instructions on how to s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
+For instructioctioctions octioction how to s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 ssssFor instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 ssssFor instructions on how to

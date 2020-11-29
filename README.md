@@ -1,5 +1,5 @@
 This is a sample openshift v3 application repository.  
-This is a sample opeThis is a sample openshiftapplication v3 application repository.  
+This is a sample opeThis is a sample openshi a sampleftapplication v3 application repository.  
 nshift v3 application repository.  
 nshift v3 application repository.  
 

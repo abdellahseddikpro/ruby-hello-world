@@ -21,7 +21,10 @@ c
 cccc
  s s
 sss
-sssccc
+ssscccc
+cccc
+ s s
+sss
  s s
 sss
 ssss

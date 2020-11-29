@@ -1,7 +1,8 @@
 This is a sample openshift v3 application repository.  
 
 For instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
-ssss
+ssssFor instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
+
 Test CI20dddsdaCI20dddsda
 sd a s s
 s d uubndqsddddsdaCI20dddsda

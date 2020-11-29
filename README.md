@@ -7,7 +7,8 @@ ssssFor instructions on how to use s  it, please see: https://github.com/openshi
 
 For instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 ssssFor instructions on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
-
+on how to use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
+ssssFor instructions on how to
 Test CI20dddsdaCI20dddsda
 sd a s s
 s d uubndqsddddsdaCI20dddsda

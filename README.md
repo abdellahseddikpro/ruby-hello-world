@@ -1,7 +1,7 @@
 This is a sample openshift v3 application repository.  
 This is a sample opeThis is a sample openshi a sampleftapplication v3 application repository.  
 nshift v3 application repository.  
-nshift v3 application repositoryrepository.  
+ssssssshift v3 application repositoryrepository.  
 sss
 For instructions onForonFor instructionsinstructionsinstructions on howhow howhowto use s  it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
 ssssFor instinstinst
